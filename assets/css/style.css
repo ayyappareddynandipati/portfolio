@@ -978,10 +978,27 @@ a:hover{
     overflow: hidden;
 }
 
-.project-card .banner{
+.project-card .banner {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
     border-radius: inherit;
-    hie
 }
+
+/* Tablet View */
+@media (max-width: 991.98px) {
+    .project-card .banner {
+        height: 180px;
+    }
+}
+
+/* Mobile View */
+@media (max-width: 575.98px) {
+    .project-card .banner {
+        height: 150px;
+    }
+}
+
 .project-card {
     position: relative; /* To make the overlay position relative to this element */
 }
