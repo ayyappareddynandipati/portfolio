@@ -32,7 +32,7 @@ export default function ProjectsSection() {
       image: imgportfolio,
       category: 'Frontend',
       technologies: ['React', 'HTML', 'CSS', 'JavaScript'],
-      liveUrl: 'https://ayyappareddy.vercel.app/',
+      liveUrl: 'https://ayyappareddy.netlify.app/',
       githubUrl: 'https://github.com/ayyappareddynandipati/Portfolio'
     },
     {
@@ -43,7 +43,7 @@ export default function ProjectsSection() {
       category: 'Frontend',
       technologies: ['HTML','CSS','Javascript','Vercel'],
       liveUrl: 'https://trendorafs.vercel.app/',
-      githubUrl: 'https://github.com/ayyappareddynandipati/Trendora_frontend'
+      githubUrl: 'https://github.com/ayyappareddynandipati/Trendora-frontend'
     },
     {
       id: 4,
@@ -63,7 +63,7 @@ export default function ProjectsSection() {
       category: 'Frontend',
       technologies: ['HTML','CSS','Javascript','Vercel'],
       liveUrl: 'https://2048-sage-sigma.vercel.app/',
-      githubUrl: 'https://github.com/ayyappareddynandipati/2048_game'
+      githubUrl: 'https://github.com/ayyappareddynandipati/2048-game'
     },
     {
       id: 6,
@@ -73,7 +73,7 @@ export default function ProjectsSection() {
       category: 'ServiceNow',
       technologies: ['ITSM', 'Visual Task Boards', 'Virtual Agent'],
       liveUrl: '',
-      githubUrl: 'https://github.com/ayyappareddynandipati/track_my_issue_servicenow'
+      githubUrl: 'https://github.com/ayyappareddynandipati/track-my-issue-servicenow'
     }
   ];
 
